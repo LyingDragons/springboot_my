@@ -21,7 +21,7 @@
             <version>5.0.4.RELEASE</version>
             <scope>compile</scope>
         </dependency>
-        <!-- spring-mvc -->
+        <!-- spring-mvc1 -->
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-webmvc</artifactId>
